@@ -1,5 +1,5 @@
 let arr=[2,1, 0, 9, 5, 8];
-let largest=0;
+let largest=arr[0];
 let secondLargest=-1;
 
 for (let i=0; i<arr.length;  i++) {
