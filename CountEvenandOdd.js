@@ -10,3 +10,4 @@ for (let i=0; i<arr.length; i++) {
 }
 console.log("Even:" ,even);
 console.log("odd:" ,odd);
+
