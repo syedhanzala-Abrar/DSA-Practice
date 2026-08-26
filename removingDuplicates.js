@@ -6,4 +6,4 @@ let removeDuplicate (vector <int>sum) {
     }
     let i=0;
     for ()
-}
+    }
