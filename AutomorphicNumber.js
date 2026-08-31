@@ -4,8 +4,8 @@
 // if (lastDigits === n) {
 //     console.log(n + " is an automorphic number.");
 // } else {
-//     console.log(n + " is not an automorphic number.");
-// }
+    console.log(n + " is not an automorphic number.");
+}
 
 
 
